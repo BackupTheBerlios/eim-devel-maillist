@@ -1,0 +1,21 @@
+From srinidhi.bs at gmail.com  Sat Aug  5 09:34:42 2006
+From: srinidhi.bs at gmail.com (B S Srinidhi)
+Date: Sat, 05 Aug 2006 13:04:42 +0530
+Subject: [Eim-devel] How to contribute?
+Message-ID: <1154763282.3281.9.camel@unicorn.srinidhi-is.in>
+
+Hi,
+
+I would like to help in the development of EIM. How can I contribute?
+Also, I would like to know, how is EIM different from 'Express'?
+
+Hope to hear from you soon. :)
+
+Srinidhi.
+-- 
+ASCII ribbon campaign ( )            B S Srinidhi
+ - against HTML email  X             http://www.srinidhi-is.in
+             & vCards / \            Bangalore
+
+
+
